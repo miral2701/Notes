@@ -14,6 +14,7 @@ namespace Notes
 {
     public partial class Form2 : MaterialForm
     {
+
         MaterialListBox b;
         public static int top=0;
         private readonly MaterialSkinManager materialSkinManager = MaterialSkinManager.Instance;
